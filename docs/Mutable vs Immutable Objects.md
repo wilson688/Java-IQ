@@ -24,3 +24,5 @@ If you would like to explicitly create a new memory space for the same string va
 ```markdown
 String s3 = new String("hello"); 
 ```
+
+<img width="964" alt="Screen Shot 2020-08-20 at 6 22 52 PM" src="https://user-images.githubusercontent.com/26611702/90831660-379a5880-e312-11ea-95e2-ca707c2c5905.png">
